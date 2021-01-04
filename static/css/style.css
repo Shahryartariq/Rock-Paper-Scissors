@@ -1,0 +1,26 @@
+.container-3 {
+  border: 2px solid black;
+  width: 75%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.flex-box-rps{
+  display: flex;
+  /* border: 1px solid black; */
+  padding: 10px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.flex-box-rps img:hover{
+  box-shadow: 0px 10px 50px rgba(37, 50, 233, 1);
+}
+
+.mybtn{
+  margin-top: 20px;
+  padding: 10px 30px;
+  font-size: 22px;
+}
