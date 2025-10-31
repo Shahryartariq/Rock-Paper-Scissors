@@ -34,5 +34,4 @@ You can open the `index.html` file in your browser to play the game locally.
 4. Click **Refresh Page** to play again.
 
 ## 🖼️ Screenshots
-
-
+![Game Preview](./static\images\Demo\preview.png)
