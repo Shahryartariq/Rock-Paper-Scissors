@@ -27,4 +27,12 @@ You can open the `index.html` file in your browser to play the game locally.
 - **JavaScript (ES6)**
 - **Bootstrap 4**
 
+## 🧠 How It Works
+1. Click on **Rock**, **Paper**, or **Scissors**.
+2. The computer randomly selects one.
+3. The result is displayed showing whether you **win**, **lose**, or **tie**.
+4. Click **Refresh Page** to play again.
+
+## 🖼️ Screenshots
+
 
