@@ -11,7 +11,8 @@ You can open the `index.html` file in your browser to play the game locally.
 
 
 ## 🧩 Play Live
-[Rock Paper Scissors Demo](https://shahryartariq.github.io/Rock-Paper-Scissors/)  
+[Rock Paper Scissors Demo](https://shahryartariq.github.io/Rock-Paper-Scissors/)
+
 Or open the `index.html` file in your browser to play locally — no server setup required!
 
 ---
