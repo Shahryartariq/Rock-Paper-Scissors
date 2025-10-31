@@ -9,6 +9,11 @@ Play against the computer, test your luck, and enjoy a clean, minimal UI powered
 You can open the `index.html` file in your browser to play the game locally.  
 (No server setup required!)
 
+
+## 🧩 Play Live
+[Rock Paper Scissors Demo](https://shahryartariq.github.io/Rock-Paper-Scissors/)  
+Or open the `index.html` file in your browser to play locally — no server setup required!
+
 ---
 
 ## 🚀 Features
@@ -34,4 +39,4 @@ You can open the `index.html` file in your browser to play the game locally.
 4. Click **Refresh Page** to play again.
 
 ## 🖼️ Screenshots
-![Game Preview](./static\images\Demo\preview.png)
+![Game Preview](./static/images/Demo/preview.png)
