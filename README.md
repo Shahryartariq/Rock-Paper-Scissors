@@ -40,3 +40,27 @@ Or open the `index.html` file in your browser to play locally — no server setu
 
 ## 🖼️ Screenshots
 ![Game Preview](./static/images/Demo/preview.png)
+
+---
+
+## 💡 Future Enhancements
+- Add animations and sound effects  
+- Keep score between rounds  
+- Show match history or stats  
+- Make it multiplayer (local or online)
+
+---
+
+## 🧑‍💻 Author
+**Muhammad Shehryar Tariq**  
+Full Stack Developer | Cybersecurity Analyst  
+🌐 [Portfolio](https://shehryar-tariq.dev) | 💼 [GitHub](https://github.com/Shahryartariq)
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** — free to use and modify.
+
+---
+
+⭐ **If you like this project, give it a star on GitHub!**
